@@ -1,6 +1,6 @@
 # Hi, I'm Ivan! 👋
 
-I'm a Frontend Developer focused on building complex, high-performance web interfaces with a strong emphasis on clean architecture.
+I'm a Frontend Developer (3 years of expirience) focused on building complex, high-performance web interfaces with a strong emphasis on clean architecture.
 
 ### 🚀 Core Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
