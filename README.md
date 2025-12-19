@@ -27,7 +27,7 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
 
 ### 📈 Key Achievements
 
-* **Performance Optimization:** Boosted rendering speed for heavy-load screens by 60% through advanced memoization (React.memo, useMemo) and selector optimization. [cite_start]Improved load times for key scenarios by 15-25% by optimizing API interactions and state management.
+* **Performance Optimization:** Boosted rendering speed for heavy-load screens by 60% through advanced memoization (React.memo, useMemo) and selector optimization. Improved load times for key scenarios by 15-25% by optimizing API interactions and state management.
 * **System Architecture:** Architected and refactored a resilient, modular WebSocket layer for telemedicine systems, replacing a legacy 5000+ line codebase to ensure message delivery stability and simplified scalability.
 * **Real-time Communication & WebRTC:** Implemented comprehensive Real-time functionality for sending, editing, forwarding, and answering messages, as well as managing chats and channels—Integrated WebRTC to enable high-quality in-platform audio and video consultations.
 * **Advanced Chat Features:** Developed instant messaging, media exchange, and real-time statuses (online/typing).Created complex UI elements, including virtualized message lists and custom context menus using React Portals.
