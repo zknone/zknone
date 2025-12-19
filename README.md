@@ -22,3 +22,18 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 Key Achievements
+
+* [cite_start]**Performance Optimization:** Boosted rendering speed for heavy-load screens by 60% through advanced memoization (React.memo, useMemo) and selector optimization[cite: 25]. [cite_start]Improved load times for key scenarios by 15-25% by optimizing API interactions and state management[cite: 45].
+* [cite_start]**System Architecture:** Architected and refactored a resilient, modular WebSocket layer for telemedicine systems, replacing a legacy 5000+ line codebase to ensure message delivery stability and simplified scalability[cite: 23, 24].
+* [cite_start]**Real-time Communication & WebRTC:** Implemented comprehensive Real-time functionality for sending, editing, forwarding, and answering messages, as well as managing chats and channels[cite: 29]. [cite_start]Integrated WebRTC to enable high-quality in-platform audio and video consultations[cite: 30].
+* [cite_start]**Advanced Chat Features:** Developed instant messaging, media exchange, and real-time statuses (online/typing)[cite: 29]. [cite_start]Created complex UI elements, including virtualized message lists and custom context menus using React Portals[cite: 31].
+* [cite_start]**Technical Debt Reduction:** Led the refactoring of 30+ legacy components and established a UI-kit with 70+ reusable elements, cutting code duplication by 50%.
+* [cite_start]**Type Safety:** Achieved 100% type safety in chat modules by eliminating "any" types and migrating the project to TypeScript Strict Mode[cite: 27].
+* [cite_start]**Mobile Development:** Developed MVP and corporate tools using React Native and Expo, integrating native modules such as camera, geolocation, and background tasks[cite: 42, 53].
+* [cite_start]**Leadership & Mentoring:** Spearheaded code review processes (30+ PRs) and mentored 4 interns, assisting them with onboarding and task decomposition.
+
+---
