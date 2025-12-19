@@ -35,8 +35,8 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
 * **[Incredibly Cool Game (Vampire Survivors Clone)](https://github.com/orange1072/incredibly-cool-game)**
     * **Role:** Lead Engine Developer / Frontend Architect.
     * **Tech Stack:** TypeScript, OOP, Redux Toolkit (RTK Query), Canvas API.
-    * **Engine Architecture:** Designed and implemented a custom **modular game engine** using TypeScript and OOP. Developed a flexible system based on **mixins**, allowing the creation of game mechanics and entities (player, enemies, projectiles) by composing independent modules: collisions, health systems, AI behaviors, spawning logic, and camera management.
-    * **State Management & UI:** Developed a custom adapter to synchronize core game engine states with the React UI. Integrated forum API using Redux Toolkit's **createApi** (RTK Query) for seamless data fetching and caching.
+    * **Engine Architecture:** Designed and implemented a custom **[modular game engine](https://github.com/orange1072/incredibly-cool-game/tree/dev/packages/client/src/engine)** using TypeScript and OOP. Developed a flexible system based on **mixins**, allowing the creation of game mechanics and entities (player, enemies, projectiles) by composing independent modules: collisions, health systems, AI behaviors, spawning logic, and camera management.
+    * **State Management & UI:** Developed a custom [adapter](https://github.com/orange1072/incredibly-cool-game/tree/dev/packages/client/src/engine/adapters) to synchronize core game engine states with the React UI. Implemented all [states](https://github.com/orange1072/incredibly-cool-game/tree/dev/packages/client/src/store/slices/game) needed. Integrated forum API using Redux Toolkit's **[createApi](https://github.com/orange1072/incredibly-cool-game/tree/dev/packages/client/src/api)** (RTK Query) for seamless data fetching and caching.
 
 * **[Messenger Framework & Chat App](https://github.com/zknone/ws-chat-advance)**
     * **Role:** Lead Software Engineer.
