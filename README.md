@@ -17,7 +17,7 @@ My projects
 🛠 Инструменты и технологии
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-black?style=for-the-badge&logo=webrtc&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-white?style=for-the-badge&logo=socketdotio&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-red?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
