@@ -25,11 +25,11 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
 
 ---
 
-### 📈 Key Achievements
+### 📈 Key Achievements (Working experience)
 
 * **Performance Optimization:** Boosted rendering speed for heavy-load screens by 60% through advanced memoization (React.memo, useMemo) and selector optimization. Improved load times for key scenarios by 15-25% by optimizing API interactions and state management.
 * **System Architecture:** Architected and refactored a resilient, modular WebSocket layer for telemedicine systems, replacing a legacy 5000+ line codebase to ensure message delivery stability and simplified scalability.
-* **Real-time Communication & WebRTC:** Implemented comprehensive Real-time functionality for sending, editing, forwarding, and answering messages and media, as well as managing chats and channels. Integrated WebRTC to enable high-quality in-platform audio and video consultations.
+* **Real-time Communication & WebRTC:** Implemented comprehensive Real-time functionality for sending, editing, forwarding, and answering messages and media, as well as managing chats and channels. Integrated WebRTC to enable high-quality in-platform audio and video consultations. 
 * **Advanced Chat Features:** Developed instant messaging, media exchange, and real-time statuses (online/typing).Created complex UI elements, including virtualized message lists and custom context menus using React Portals.
 * **Technical Debt Reduction:** Led the refactoring of 30+ legacy components (3000+lines each) and established a UI-kit with 70+ reusable elements, cutting code duplication by 50%.
 * **Type Safety:** Achieved 100% type safety in chat modules by eliminating "any" types and migrating the project to TypeScript Strict Mode.
@@ -37,7 +37,7 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
 * **Leadership & Mentoring:** Spearheaded code review processes (30+ PRs) and mentored 4 interns, assisting them with onboarding and task decomposition.
 
 ---
-### 📂 Portfolio Highlight
+### 📂 Portfolio Highlight (Freelance or pet projects)
 
 * **[Valentin Diakonov — Art Critic Portfolio](https://yick.art/en)**
     * **Role:** Lead Frontend / Product Engineer.
@@ -49,4 +49,11 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
     * **Tech Stack:** TypeScript, OOP, Redux Toolkit (RTK Query), Canvas API.
     * **Engine Architecture:** Designed and implemented a custom **modular game engine** using TypeScript and OOP. Developed a flexible system based on **mixins**, allowing the creation of game mechanics and entities (player, enemies, projectiles) by composing independent modules: collisions, health systems, AI behaviors, spawning logic, and camera management.
     * **State Management & UI:** Developed a custom adapter to synchronize core game engine states with the React UI. Integrated forum API using Redux Toolkit's **createApi** (RTK Query) for seamless data fetching and caching.
+
+* **[Messenger Framework & Chat App](https://github.com/zknone/ws-chat-advance)**
+    * **Role:** Lead Software Engineer.
+    * **Tech Stack:** TypeScript, OOP, Handlebars, Vite, Mocha/Chai.
+    * **Architectural Innovation:** Developed a custom **Single Page Application (SPA) framework** from scratch, featuring a self-written Router, State Management (Store), and a Block-based component system for Handlebars.
+    * **Engineering Excellence:** Implemented private routing, persistent sessions, and real-time messaging via WebSocket[cite: 21, 23, 29].
+    * **Quality Assurance:** Maintained high code standards with a 100% type-safe codebase, strict ESLint/Stylelint rules, and automated unit testing (Mocha/Chai/jsdom) for core framework modules.
 ---
