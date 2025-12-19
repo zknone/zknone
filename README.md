@@ -43,6 +43,6 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
     * **Role:** Lead Software Engineer.
     * **Tech Stack:** TypeScript, OOP, Handlebars, Vite, Mocha/Chai.
     * **Architectural Innovation:** Developed a custom **Single Page Application (SPA) framework** from scratch, featuring a self-written Router, State Management (Store), and a Block-based component system for Handlebars.
-    * **Engineering Excellence:** Implemented private routing, persistent sessions, and real-time messaging via WebSocket[cite: 21, 23, 29].
+    * **Engineering Excellence:** Implemented private routing, persistent sessions, and real-time messaging via WebSocket.
     * **Quality Assurance:** Maintained high code standards with a 100% type-safe codebase, strict ESLint/Stylelint rules, and automated unit testing (Mocha/Chai/jsdom) for core framework modules.
 ---
