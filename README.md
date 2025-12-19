@@ -37,3 +37,11 @@ I'm a Frontend Developer focused on building complex, high-performance web inter
 * **Leadership & Mentoring:** Spearheaded code review processes (30+ PRs) and mentored 4 interns, assisting them with onboarding and task decomposition.
 
 ---
+### 📂 Portfolio Highlight
+
+* **[Valentin Diakonov — Art Critic Portfolio](https://yick.art/en)**
+    * **Role:** Lead Frontend / Product Engineer.
+    * **Tech Stack:** Next.js, TypeScript, Sanity.io.
+    * **Key Contributions:** Engineered a high-performance full-stack web application with seamless content management. Acted as a Product Engineer by pitching features, collaborating with designers, and managing the project lifecycle to align with user needs.
+
+---
