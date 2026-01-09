@@ -46,7 +46,7 @@ I'm a Frontend Developer with 3 years of experience, focused on building complex
     * **Engineering Excellence:** Implemented private routing, persistent sessions, and real-time messaging via WebSocket.
     * **Quality Assurance:** Maintained high code standards with a 100% type-safe codebase, strict ESLint/Stylelint rules, and automated unit testing (Mocha/Chai/jsdom) for core framework modules.
     * **Source code**: //https://github.com/zknone/ws-chat-advance
----
+      
 * **[Caffe app](https://react-burger-demo.netlify.app/)** 
    * **Role**: Frontend Engineer.
    * **Tech Stack**: React, TypeScript, Redux Toolkit, RTK Query, React DnD, React Router, Vite, Zod, Jest, Cypress.
