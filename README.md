@@ -39,10 +39,17 @@ I'm a Frontend Developer with 3 years of experience, focused on building complex
     * **Rendering System:** Developed a high-performance **Canvas API rendering engine** from scratch. Implemented a world-rendering pipeline, camera management (follow/zoom logic), and optimized sprite rendering for high-density mob scenes.
     * **State Management & UI:** Developed a custom [adapter](https://github.com/orange1072/incredibly-cool-game/tree/dev/packages/client/src/engine/adapters) to synchronize core game engine states with the React UI. Implemented all [states](https://github.com/orange1072/incredibly-cool-game/tree/dev/packages/client/src/store/slices/game) needed. Integrated forum API using Redux Toolkit's **[createApi](https://github.com/orange1072/incredibly-cool-game/tree/dev/packages/client/src/api)** (RTK Query) for seamless data fetching and caching.
 
-* **[Messenger Framework & Chat App](https://ws-chat-advance.netlify.app/)**
+* **[Messenger Framework & Chat App](https://ws-chat-advance.netlify.app/)** //https://github.com/zknone/ws-chat-advance
     * **Role:** Frontend Engineer.
     * **Tech Stack:** TypeScript, OOP, Handlebars, Vite, Mocha/Chai.
     * **Architectural Innovation:** Developed a custom **Single Page Application (SPA) framework** from scratch, featuring a self-written Router, State Management (Store), and a Block-based component system for Handlebars.
     * **Engineering Excellence:** Implemented private routing, persistent sessions, and real-time messaging via WebSocket.
     * **Quality Assurance:** Maintained high code standards with a 100% type-safe codebase, strict ESLint/Stylelint rules, and automated unit testing (Mocha/Chai/jsdom) for core framework modules.
+---
+* **[Caffe app](https://react-burger-demo.netlify.app/)** // https://github.com/zknone/react-burger
+   * **Role**: Frontend Engineer.
+   * **Tech Stack**: React, TypeScript, Redux Toolkit, RTK Query, React DnD, React Router, Vite, Zod, Jest, Cypress.
+   * **Architectural Focus**: Built a burger builder SPA with drag‑and‑drop ingredient assembly, tab‑synced ingredient navigation, and modular UI components.
+   * **Engineering Excellence**: Implemented a typed API layer with schema validation, custom WebSocket middleware for live order feeds, and mockable network layers for dev/test.
+   * **Quality Assurance**: Automated unit tests with Jest/Testing Library, E2E with Cypress, and enforced code quality via ESLint/Prettier.
 ---
