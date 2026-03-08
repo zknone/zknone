@@ -15,14 +15,12 @@ I'm a Frontend Developer with 3 years of experience, focused on building complex
 
 ### 📈 Key Achievements (Working experience)
 
-* **Performance Optimization:** Boosted rendering speed for heavy-load screens by 60% through advanced memoization (React.memo, useMemo) and selector optimization. Improved load times for key scenarios by 15-25% by optimizing API interactions and state management.
-* **System Architecture:** Architected and refactored a resilient, modular WebSocket layer for telemedicine systems, replacing a legacy 5000+ line codebase to ensure message delivery stability and simplified scalability.
-* **Real-time Communication & WebRTC:** Implemented comprehensive Real-time functionality for sending, editing, forwarding, and answering messages and media, as well as managing chats and channels. Integrated WebRTC to enable high-quality in-platform audio and video consultations. 
-* **Advanced Chat Features:** Developed instant messaging, media exchange, and real-time statuses (online/typing).Created complex UI elements, including virtualized message lists and custom context menus using React Portals.
-* **Technical Debt Reduction:** Led the refactoring of 30+ legacy components (3000+lines each) and established a UI-kit with 70+ reusable elements, cutting code duplication by 50%.
-* **Type Safety:** Achieved 100% type safety in chat modules by eliminating "any" types and migrating the project to TypeScript Strict Mode.
-* **Mobile Development:** Developed MVP and corporate tools using React Native and Expo, integrating native modules such as camera, geolocation, and background tasks.
-* **Leadership & Mentoring:** Spearheaded code review processes (30+ PRs) and mentored 4 interns, assisting them with onboarding and task decomposition.
+* **WS Architecture**: Rebuilt a WS-layer that lost messages over unstable connections. Divided the 5,000+ line monolith into send/receive pipelines, improving readability and extendability.
+* **App Architecture**: Implemented clear FSD layers (entities, features, widgets) while continuing to develop features with the team. This boosted new feature and UI development by 20%, and self-documented code eased onboarding.
+* **Optimization**: Reduced unnecessary re-renders by ~60% through memoization, effect cleanup, and prop simplification. Built a reusable context menu with Portal, eliminating repeated menu mounts. Added asset preloading and lazy loading for route-specific widgets.
+* **Implemented ZOD-validation for entity models**. For clear and user-friendly fallbacks.
+* **Technical Debt Reduction**: Refactored over 30 legacy components, extracted a UI Kit.
+* **E2E and unit testing**. Wrote tests for initial fetching of chats, messages, and UI elements. Wrote tests for all helpers and reducers.
 
 ---
 ### 📂 Portfolio Highlight (Freelance or pet projects)
