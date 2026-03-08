@@ -1,6 +1,6 @@
 # Hi, I'm Ivan! 👋
 
-I'm a Frontend Developer with 3 years of experience, focused on building complex, high-performance web interfaces with a strong emphasis on clean architecture.
+Frontend Developer with 3+ years of experience building complex web and mobile applications (govtech, fintech, telemedicine). Focused on real-time systems (WebSocket, WebRTC), rendering optimization, scalable frontend architecture (FSD), and enhancing maintainability. Worked with product, design, QA, and backend teams to deliver features in a Kanban workflow.
 
 ### Core Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
